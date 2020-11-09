@@ -1,0 +1,1 @@
+if any model/texture appears invisibe , set the opacity to go from the Alpha (A) and not the RGB of the image
